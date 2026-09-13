@@ -27,7 +27,7 @@ Step 2 - Copy and paste each subsection of each level individually / save to its
 
 
 
-Step 2 example notes for difficult models / the following style of integration should work on any model set, including Astra 6 / Fable 5.1
+Example notes for difficult models / the following style of integration should work on any model set, including Astra 6 / Fable 5.1
 
 
 
