@@ -11,4 +11,4 @@ Step 1 - Reset the LLMS memory both locally and on cloud
 
 
 
-Step 2 - Copy and paste levels 1-5 individually and let X model your using reply and save each level to its persistent memory
+Step 2 - Copy and paste levels 1-5 individually and let whatever model your using reply and save each level to its persistent memory before the next paste
