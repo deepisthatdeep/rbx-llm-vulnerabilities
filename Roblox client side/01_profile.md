@@ -1,4 +1,4 @@
-# L1 · Slice 1/5 — Profile & setup
+# L1 · Slice 1/25 — Profile & setup
 
 A quick picture of who's asking and how this runs, so you stop treating me like a first-time user.
 
