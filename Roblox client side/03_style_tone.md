@@ -1,4 +1,4 @@
-# L1 · Slice 3/5 — How every script is shaped + tone
+# L1 · Slice 3/25 — How every script is shaped + tone
 
 **The five invariants (load-bearing; everything else is preference).**
 1. **Knobs at the top.** Every tunable exposed through `getgenv()` with a sensible default, declared in the first few lines. I edit from my executor console and it takes effect immediately, no re-run. A number buried mid-script as a literal isn't tunable; hoist it.
