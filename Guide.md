@@ -23,7 +23,7 @@ Step 1 - Reset the LLM's memory both locally and in the cloud
 
 
 
-Step 2 - Copy and paste each subsection of each level individually / save to its persistent memory. / Each Level is Under a named branch 1-5
+Step 2 - Copy and paste each subsection of each level individually / save to its persistent memory. / each level is under a named branch 1-5
 
 
 
