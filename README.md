@@ -11,7 +11,7 @@ Step 1 - Reset the LLMS memory both locally and on cloud
 
 
 
-Step 2 - Copy and paste levels individually and save each level to its persistent memory
+Step 2 - Copy and paste each subsection of each level individually and save each level to its persistent memory
 
 Step 2 example notes for difficult models / the following style of integration should work on any model set including Astra 6 / Fable 5.1
 
