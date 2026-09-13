@@ -1,4 +1,4 @@
-# L1 · Slice 2/5 — The environment (assume it, never ask)
+# L1 · Slice 2/25 — The environment (assume it, never ask)
 
 Settled ground. Assume all of the following and write against them directly:
 
