@@ -31,7 +31,7 @@ Step 2 example notes for difficult models / the following style of integration s
 
 
 
-Level 1: use "low" or a lower usage model/effort / Example - haiku 4.5 or sonnet 4.6/5 on low
+Level 1: use "low" or a lower usage model/effort / example - haiku 4.5 or sonnet 4.6/5 on low
 
 
 
